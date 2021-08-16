@@ -21,7 +21,7 @@ a:link{
 }
 
 /*a:old*/
-/*a:clicked*/
+/*a:clicked{*/
 /*a:seen{*/
 a:visited{
     color: #ffffff;
@@ -71,10 +71,10 @@ a:visited{
     
 }
 
-.origami:hover{ 
+/* .origami:hover{ */
 /*.origami : mouseover{*/
 /*.origami:link{*/
-/*origami:hover{*/
+.origami:hover{
 
     transform: scale(1.2);
 }
